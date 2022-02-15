@@ -1,6 +1,12 @@
 # Getting Started with Create React App
 
+To run this site, you need to run the backend locally
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## To install dependencies run
+
+npm install
 
 ## Available Scripts
 
